@@ -10,3 +10,9 @@ canvas {
     border: solid 0.2em #fff;
     height: 90vh;
 }
+
+.subtitulo {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
