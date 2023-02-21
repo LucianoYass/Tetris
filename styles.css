@@ -1,0 +1,12 @@
+body {
+    background: #1b0de4;
+    color: #fff;
+    font-family: monospace;
+    font-size: 2em;
+    text-align: center;
+}
+
+canvas {
+    border: solid 0.2em #fff;
+    height: 90vh;
+}
